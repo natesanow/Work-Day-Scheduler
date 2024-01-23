@@ -12,7 +12,7 @@ To complete this task I made hourly time blocks from 9-5 that changes colors to 
 
 Github URL - https://github.com/natesanow/Work-Day-Scheduler
 
-Link URL - http://
+Link URL - https://natesanow.github.io/Work-Day-Scheduler/
 
 ### Screenshot
 
