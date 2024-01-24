@@ -6,7 +6,7 @@ In this project I made a daily planner for a general workday from 9-5 to manage 
 
 ### Tasks Completed
 
-To complete this task I made hourly time blocks from 9-5 that changes colors to indicate past, present, or future. In each hour I added a save button to save information inputted in each hourly time block which also is saved to local storage.
+To complete this task I made hourly time blocks from 9-5 that changes colors to indicate past, present, or future. In each hour I added a save button to save information inputted in each hourly time block which also is saved to local storage. My tutor session assisted me with portion of the javascript code.
 
 ### Links
 
